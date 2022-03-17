@@ -13,5 +13,10 @@ namespace TechnicalHW4
         {
 
         }
+
+        protected void btnAnotherOrder_Click(object sender, EventArgs e)
+        {
+            Response.Redirect("page2.aspx");
+        }
     }
 }

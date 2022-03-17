@@ -7,7 +7,7 @@
         <br />
     <br />
         <asp:Label ID="lblPetID" runat="server" Text="Pet ID:  "></asp:Label>
-    <asp:TextBox ID="txtUsername" runat="server"></asp:TextBox><br /><br />
+    <asp:TextBox ID="txtPetID" runat="server"></asp:TextBox><br /><br />
 
     <asp:Label ID="lblMedication" runat="server" Text="Medication:  "></asp:Label>
         <asp:DropDownList ID="ddlMedication" runat="server">

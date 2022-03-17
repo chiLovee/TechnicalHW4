@@ -17,8 +17,8 @@
                 <h1 style="color:cadetblue">Master Page</h1>
                 <div style="display:flex; flex-direction:row; justify-content:space-around; width: 25%;">
                     <a href="Default.aspx">Login</a>
-                    <a href="Page2.aspx">Dashboard</a>
-                    <a href="Page3.aspx">Home</a>
+                    <a href="Page2.aspx">Order</a>
+                    <a href="Page3.aspx">Confirmation</a>
              </div>
             </Center>
              

@@ -33,13 +33,13 @@ namespace TechnicalHW4
         protected global::System.Web.UI.WebControls.Label lblPetID;
 
         /// <summary>
-        /// txtUsername control.
+        /// txtPetID control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox txtUsername;
+        protected global::System.Web.UI.WebControls.TextBox txtPetID;
 
         /// <summary>
         /// lblMedication control.
