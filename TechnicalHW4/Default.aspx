@@ -4,6 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 <br />
+
     <center>
     <asp:Label ID="lblUsername" runat="server" Text="Username:  "></asp:Label>
     <asp:TextBox ID="txtUsername" runat="server"></asp:TextBox><br /><br />
@@ -12,8 +13,5 @@
     <asp:TextBox ID="txtPassword" runat="server"></asp:TextBox><br /><br />
         <asp:Button ID="btnLogin" runat="server" Text="Login" OnClick="btnLogin_Click" />
     </center>
-
-
-
 
 </asp:Content>
